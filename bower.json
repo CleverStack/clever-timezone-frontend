@@ -1,0 +1,25 @@
+{
+  "name": "clever-timezone-frontend",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Durante <me@danieldurante.com>"
+  ],
+  "description": "This module provides a directive to create a select list of timezone that pulls in timezones from the cleverstack backend.",
+  "main": "main.js",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-frontend"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CleverStack/clever-timezone-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "rename": "cs_timezone"
+}
